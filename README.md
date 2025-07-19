@@ -1,1 +1,1 @@
-# MyAIProjects
+# SimpleRNN
